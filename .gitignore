@@ -1,0 +1,5 @@
+pkg/*
+*.gem
+.bundle
+spec/fixture/sample_app/log/*.log
+spec/fixture/sample_app/tmp/**/*

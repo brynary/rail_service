@@ -1,0 +1,6 @@
+source 'http://rubygems.org'
+
+gem 'actionpack', '3.0.3'
+gem 'railties', '3.0.3'
+
+gem 'rail_service', :path => '../../../'
